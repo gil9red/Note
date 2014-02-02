@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Logo36x36Icon">resource/images/icon64x64.png</file>
+        <file alias="LogoIcon">resource/images/logo.png</file>
+        <file alias="SplashIcon">resource/images/SplashIconNote.png</file>
+        <file>resource/russian.notelng</file>
+        <file>resource/history.txt</file>
+        <file>resource/license.txt</file>
+        <file>resource/styles/Default/Default.style</file>
+        <file>resource/styles/Note/Note.style</file>
+        <file>resource/images/iconFileNote.ico</file>
+        <file>resource/images/icon.ico</file>
+        <file>resource/help/index.html</file>
+        <file>resource/help/images/icon.png</file>
+        <file>resource/help/images/panel_formatting/align_center.png</file>
+        <file>resource/help/images/panel_formatting/align_justify.png</file>
+        <file>resource/help/images/panel_formatting/align_left.png</file>
+        <file>resource/help/images/panel_formatting/align_right.png</file>
+        <file>resource/help/images/panel_formatting/bold.png</file>
+        <file>resource/help/images/panel_formatting/change_color_text.png</file>
+        <file>resource/help/images/panel_formatting/change_register.png</file>
+        <file>resource/help/images/panel_formatting/change_size_text.png</file>
+        <file>resource/help/images/panel_formatting/clear_text_from_formatting.png</file>
+        <file>resource/help/images/panel_formatting/combo_box_fonts.png</file>
+        <file>resource/help/images/panel_formatting/combo_box_size_text.png</file>
+        <file>resource/help/images/panel_formatting/decrement_size_text.png</file>
+        <file>resource/help/images/panel_formatting/down_case.png</file>
+        <file>resource/help/images/panel_formatting/increment_size_text.png</file>
+        <file>resource/help/images/panel_formatting/italic.png</file>
+        <file>resource/help/images/panel_formatting/mark_list.png</file>
+        <file>resource/help/images/panel_formatting/number_list.png</file>
+        <file>resource/help/images/panel_formatting/panel_formatting.png</file>
+        <file>resource/help/images/panel_formatting/sub_script_text.png</file>
+        <file>resource/help/images/panel_formatting/super_script_text.png</file>
+        <file>resource/help/images/panel_formatting/text_overline.png</file>
+        <file>resource/help/images/panel_formatting/text_strikeline.png</file>
+        <file>resource/help/images/panel_formatting/text_underline.png</file>
+        <file>resource/help/images/panel_formatting/up_case.png</file>
+        <file>resource/help/about_company.html</file>
+        <file>resource/help/panel_formatting.html</file>
+        <file>resource/help/shared_information.html</file>
+    </qresource>
+</RCC>

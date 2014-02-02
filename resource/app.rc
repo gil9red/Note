@@ -1,0 +1,52 @@
+// иконка ехе
+IDI_ICON1  ICON    DISCARDABLE     "images/icon.ico"
+
+// дополнительная иконка, используемая в отображении файлов программы
+1          ICON    DISCARDABLE     "images/iconFileNote.ico"
+
+#define APP_VERSION 0,2,2,0
+#define APP_VERSION_STR "0.2.2.0\0"
+
+#ifndef Q_CC_BOR
+#	if defined(UNDER_CE) && UNDER_CE >= 400
+#		include <winbase.h>
+#	else
+#		include <winver.h>
+#	endif
+#endif // Q_CC_BOR
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 0,2,2,0
+ PRODUCTVERSION 0,2,2,0
+ FILEFLAGSMASK 0x17L
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+
+BEGIN 
+	BLOCK "StringFileInfo"
+	BEGIN 
+		BLOCK "040904e4"
+		BEGIN
+			VALUE "Comments",           "Made in Russia"
+			VALUE "CompanyName",        "Petrash Ilya"
+                        VALUE "FileDescription",    "Program for creation of notes"
+                        VALUE "FileVersion",        "0.2.2"
+			VALUE "InternalName",       "Note"
+                        VALUE "LegalCopyright",     "Copyright (C) Ilya Petrash 2013"
+			VALUE "OriginalFilename",   "Note.exe"
+			VALUE "ProductName",        "Note"
+                        VALUE "ProductVersion",     "0.2.2"
+		END
+	END
+	
+	BLOCK "VarFileInfo"
+	BEGIN
+                VALUE "Translation", 0x419, 0
+	END
+END

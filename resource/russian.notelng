@@ -1,0 +1,443 @@
+[File]
+Icon=89504e470d0a1a0a0000000d49484452000000100000001008060000001ff3ff610000000473424954080808087c086488000000097048597300000b1300000b1301009a9c18000000e849444154388da5933b4e033114458fe74792010d12521ac42a685913bb602dd46c812d505321142912122360623f633f8a64c8f0293c99d358967ccf7dc5334cc4001570bc3bc720c07b0134aaba3ea8dd986506d4878477d419904f10e41940086174b2cf140097d7772ccf1ada0f41078f0cfcb8f79cd615eb97762fd838cbe3cad0763ea9bd5994146a0782cec2d18c18ffebfb8bff54bc1b086eef6fb8284b62b74912648b394fde73d50bac38342fc098248146c58adb4fe044d0d91caa324da01127f22d90a0ca43fb9a14fe8518a001ce819391e137e0d9b0ddc48af11b19d87ea8697c01e14a52bedd343acc0000000049454e44ae426082
+Name=Русский (RU)
+Author=Илья Петраш
+Contact="<html> <a href = 'http://vk.com/id52658091'>vk.com</a> </html>"
+Description="<html> <font size = 2> Программа для создания электронных заметок </font> </html>"
+AllRightsReserved=Все права защищены
+LoadingInfo=Создание окон, Создание окон, Создание окон, Инициализация, Инициализация, Загрузка языка, Загрузка заметок, Загрузка заметок, Все готово
+
+[Note]
+SelectAll=Выделить все
+Cut=Вырезать
+Copy=Копировать
+Paste=Вставить
+Settings=Настройки
+Hide=Скрыть
+Lock=Блокировать
+Unlock=Разблокировать
+MoveToRecycleBin=Переместить в корзину
+Duplicate=Дублировать
+SaveAs=Сохранить как...
+Open=Открыть...
+Print=Печать
+PreviewPrint=Предварительный просмотр
+Find=Найти...
+Replace=Заменить...
+AutocompleteOn=Включить автодополнение
+AutocompleteOff=Выключить автодополнение
+Opacity=Непрозрачность
+OpacityOther=Другая
+Color=Цвет
+Title=Заголовок
+MessageTitleQuestion=Вопрос
+MessageTextMoveNoteToRecycleBin=Переместить эту заметку в корзину?
+MessageCancel=Отмена
+MessageOk=Да
+ToolTipSettings=Настройки заметки
+ToolTipHide=Скрыть заметку
+ToolTipLockUnlock=Заблокировать/разблокировать заметку
+ToolTipHideShowFormatingPanelText=Показать/спрятать панель форматирования
+OnOffAutocomplete=Включить/выключить автодополнение
+
+[SettingsNote]
+Title=Настройки
+SelectTitle=Выберите заголовок:
+SelectOpacity=Выберите непрозрачность:
+SelectColor=Выберите цвет заднего фона:
+Ok=Ok
+Cancel=Отмена
+GeneralSettings=Главные
+SettingsPassword=Пароль
+SelectZPosition=Выберите Z-положение:
+WindowStaysOnBottomHint=Всегда позади
+WindowStaysOnTopHint=Всегда наверху
+ToolTipSelectTitle=Заголовок (название) заметки
+ToolTipSelectColor=Цвет заметки
+ToolTipOk=Закрыть настройки
+ToolTipCancel=Отмена изменений и закрытие настройки
+ToolTipGeneralSettings=Основные настройки заметки
+ToolTipSettingsPassword=Настройки защиты заметки
+ToolTipSelectZPosition="<html> Выберите положения заметки,<br>относительно других окон </html>"
+ToolTipWindowStaysOnBottomHint=Позади всех окон
+ToolTipWindowStaysOnTopHint="<html> Заметка будет перекрывать практически все окна,<br>исключение - окна с тем же атрибутом </html>"
+
+[FormatingPanel]
+Title=Панель форматирования
+SelectDisc=Диск
+SelectCircle=Круг
+SelectSquare=Квадрат
+SelectDecimal=Десятичный
+SelectAlphaLower=Альфа нижний
+SelectAlphaUpper=Альфа верхний
+SelectRomanLower=Римский нижний
+SelectRomanUpper=Римский верхний
+ToolTipTextBold=<html> Применение полужирного начертания к выделенному тексту<hr><p> <B>Ваш текст</B> </p> </html>
+ToolTipTextItalic=<html> Применение курсивного начертания к выделенному тексту <hr><p> <I>Ваш текст</I> </p> </html>
+ToolTipClearTheTextFromFormatting=<html> Удаление любого форматирования из выделенного фрагмента.<br>Остается только обычный текст </html>
+ToolTipTextSubScript=<html> Создание маленьких букв ниже опорной линии текста<hr><p> <big> x<sub>2</sub> </big> </p> </html>
+ToolTipTextSuperScript=<html> Создание маленьких букв выше опорной линии текста<hr><p> <big> x<sup>2</sup> </big> </p> </html>
+ToolTipTextUnderline=<html> Подчеркивание выделенного текста<hr><p> <U>Ваш текст</U> </p> </html>
+ToolTipTextOverline="<html> Надчеркивание выделенного текста<hr><p style = 'text-decoration: overline'>Ваш текст</p> </html>"
+ToolTipTextStrikeOut=<html> Зачеркивание выделенного текста<hr><p> <S>Ваш текст</S> </p> </html>
+ToolTipAlignLeft="<html> Выравнивание текста по левому краю<hr><p align = 'left'>&laquo;Прими сей череп, Дельвиг, он <br>Принадлежит тебе по праву. <br>Тебе поведаю, барон, <br>Его готическую славу&raquo;</p></html>"
+ToolTipAlignCenter="<html> Выравнивание текста по центру<hr><p align = 'center'>&laquo;Прими сей череп, Дельвиг, он <br>Принадлежит тебе по праву. <br>Тебе поведаю, барон, <br>Его готическую славу&raquo;</p></html>"
+ToolTipAlignRight="<html> Выравнивание текста по правому краю<hr><p align = 'right'>&laquo;Прими сей череп, Дельвиг, он <br>Принадлежит тебе по праву. <br>Тебе поведаю, барон, <br>Его готическую славу&raquo;</p></html>"
+ToolTipAlignJustify="<html> Выравнивание текста по левому и правому краю<hr><p align = 'justify'>&laquo;Прими сей череп, Дельвиг, он <br>Принадлежит тебе по праву. <br>Тебе поведаю, барон, <br>Его готическую славу&raquo;</p></html>"
+ToolTipTextColor=<html> Изменение цвета текста </html>
+ToolTipTextBackgroundColor=<html> Изменение цвета заднего фона текста </html>
+ToolTipConvertUpperCaseSensitive="<html> Изменение регистра выделенного текста в верхний регистр<hr> <br>привет -> ПРИВЕТ,<br>ПРИвет -> ПРИВЕТ,<br>ПРИВЕТ -> ПРИВЕТ </html>"
+ToolTipConvertLowerCaseSensitive="<html> Изменение регистра выделенного текста в нижний регистр<hr> <br>ПРИВЕТ -> привет,<br>ПРИвет -> привет,<br>привет -> привет </html>"
+ToolTipConvertNegativeCaseSensitive="<html> Негативное изменение регистра выделенного текста<hr> <br>привет -> ПРИВЕТ,<br>ПРИвет -> приВЕТ,<br>ПРИВЕТ -> привет </html>"
+ToolTipFigureStyle=<html> Маркированный список </html>
+ToolTipOrderedStyle=<html> Нумерованный список </html>
+ToolTipFont=<html> Выбор шрифта для выделенного текста </html>
+ToolTipIncreaseFontSize=<html> Увеличение размера шрифта </html>
+ToolTipDecreaseFontSize=<html> Уменьшение размера шрифта </html>
+ToolTipSize=<html> Выбор размера символов для выделенного символа </html>
+ToolTipSelectDisc=<html> Маркирование элементов списка заполненной окружностью </html>
+ToolTipSelectCircle=<html> Маркирование элементов списка кругом </html>
+ToolTipSelectSquare=<html> Маркирование элементов списка квадратом </html>
+ToolTipSelectDecimal=<html> Маркирование элементов списка числами </html>
+ToolTipSelectAlphaLower=<html> Маркирование элементов списка<br>латинскими буквами в нижнем регистре </html>
+ToolTipSelectAlphaUpper=<html> Маркирование элементов списка<br>латинскими буквами в верхнем регистре </html>
+ToolTipSelectRomanLower=<html> Маркирование элементов списка<br>римскими цифрами в нижнем регистре </html>
+ToolTipSelectRomanUpper=<html> Маркирование элементов списка<br>римскими цифрами в верхнем регистре </html>
+
+[DialogInsert]
+Title=Вставка содержимого
+GroupBoxTitle=Вставить в
+Top=Начало
+End=Конец
+Middle=Середину
+PositionCursor=Позицию курсора
+Ok=Ok
+Cancel=Отмена
+ToolTipTop=Вставка в начало текста
+ToolTipEnd=Вставка в конец текста
+ToolTipMiddle=Вставка в середину текста
+ToolTipPositionCursor=Вставка в позицию курсора
+ToolTipOk=Применить вставку
+ToolTipCancel=Отмена вставки
+
+[MessageReaderTextFiles]
+Title=Вопрос
+Text="<html><b>Показать</b> содержание HTML файла?<br> Будьте осторожны, если выберите Да или Нет - тогда<br>содержимое заметки будет заменено на содержимое html,<br>если не хотите этого выберите Отмена<html>"
+Ok=Да
+No=Нет
+Cancel=Отмена
+
+[PasswordProtect]
+Ok=Принять
+InputPassword=Введите пароль:
+Title=Предупреждение
+Text=Введенные данные ошибочны!
+ToolTipOk=<html>Нажатие этой кнопки вызывает проверку<br>введенного пароля</html>
+ToolTipInputPassword=Окно ввода пароля
+
+[PasswordSettings]
+PasswordProtect=Защитить паролем?
+HideTheInputData=Скрыть вводимые данные?
+NewPassword=Новый пароль:
+ConfirmNewPassword=Потвердите новый пароль:
+OldPassword=Cтарый пароль:
+SaveChange=Сохранить изменения
+Information=Информация
+Warning=Предупреждение
+AcceptedNewPassword="Поздравляю, новый пароль выбран!"
+ErrorWhenOldPasswordChange=<html>Ошибка! Возможные варианты:<ol><li>Не правильно введен старый пароль</li><li>Новый пароль не совпадает с повторением нового пароля</li></ol></html>
+ToolTipHideTheInputData="Если убрать флажок, то вводимые данные не будут закрыты"
+ToolTipBoxPasswordProtect="<html>Этот флаг определяет будет ли включена защита,<br>открывает ввод и изменение пароля</html>"
+ToolTipConfirmNewPassword=Потверждение нового пароля
+ToolTipNewPassword=Ввод нового пароля
+ToolTipOldPassword=Ввод старого пароля
+ToolTipSaveChange=<html>Сохранение нового пароля или<br>изменения старого пароля</html>
+
+[SystemTray]
+HelpMenu=Помощь
+Help=Справка
+About=О программе
+Quit=Выйти
+AddNote=Новая заметка
+AddNoteFromClipboard=Новая заметка от буфера обмена
+Settings=Настройки
+ShowHideManager=Показать/скрыть Менеджер
+ShowAllNotes=Показать все заметки
+HideAllNotes=Скрыть все заметки
+ActivateHotkeys=Активировать горячие клавиши
+DeactivateHotkeys=Деактивировать горячие клавиши
+DescriptionOfTheProgram=Программа для создания заметок
+AllNotes=Всего заметок:
+VisibleNotes=Видимых заметок:
+InvisibleNotes=Невидимых заметок:
+NotesInTheRecycleBin=Заметок в корзине:
+
+[Manager]
+Title=Менеджер заметок
+Add=Добавить
+Show=Показать
+Hide=Скрыть
+MoveNoteToRecycleBin=Переместить в корзину
+AllNotes=Все заметки...
+Delete=Удалить
+Restore=Восстановить
+File=&Файл
+Open=&Открыть...
+AddNoteFromClipboard=Новая заметка от буфера обмена
+Edit=&Правка
+FindNote=&Найти заметку
+Cancel=Отмена
+Ok=Да
+No=Нет
+TitleQuestion=Вопрос
+TitleHint=Подсказка
+TextMessageClearList=Переместить все заметки в корзину?
+TextMessageDeleteItem=Удалить эту заметку?
+TextMessageDeleteAllItem=Удалить все из корзины?
+TextMessageRestoreAllItem=Восстановить все из корзины?
+TextMessageMoveNoteToRecycleBin=Переместить эту заметку в корзину?
+TextAddNewNoteInTable=Добавить новую заметку в таблицу?
+TextMessageMoveSelectedNotesToRecycleBin=Переместить выбранные заметки в корзину?
+TextMessageDeleteSelectedNotes=Удалить выбранные заметки?
+TextMessageRestoreSelectedNotes=Восстановить выбранные заметки?
+TextMessageSystemTray=Для открытия менеджера щелкни тут
+TextRowAndTitleItemInTable="Номер cтроки %1, заголовок %2"
+ToolTipAddNote=Добавление создание новой заметки и добавление ее в таблицу
+ToolTipShowNote="<html>Показать заметку.<br><br>Работает кнопка так:<br> если есть хотя бы один флажок на строке заметки таблицы, то действие будет<br>направленно на заметки с флажками, если нет, тогда действие будет<br>направлена на выделенную строку таблицы </html>"
+ToolTipHideNote="<html>Скрыть заметку.<br><br>Работает кнопка так:<br> если есть хотя бы один флажок на строке заметки таблицы, то действие будет<br>направленно на заметки с флажками, если нет, тогда действие будет<br>направлена на выделенную строку таблицы</html>"
+ToolTipMoveNoteToRecycleBin="<html>Переместить заметку в корзину.<br><br>Работает кнопка так:<br> если есть хотя бы один флажок на строке заметки таблицы, то действие будет<br>направленно на заметки с флажками, если нет, тогда действие будет<br>направлена на выделенную строку таблицы </html>"
+ToolTipAllNotes="<html> Выбор действия, направленного на все заметки в таблице </html>"
+ToolTipDeleteNote="<html>Удалить заметку.<br><br>Работает кнопка так:<br> если есть хотя бы один флажок на строке заметки таблицы, то действие будет<br>направленно на заметки с флажками, если нет, тогда действие будет<br>направлена на выделенную строку таблицы </html>"
+ToolTipRestoreNote="<html>Восстановить заметку в таблицу заметок.<br><br>Работает кнопка так:<br> если есть хотя бы один флажок на строке заметки таблицы, то действие будет<br>направленно на заметки с флажками, если нет, тогда действие будет<br>направлена на выделенную строку таблицы </html>"
+
+[TableNotes]
+Title=Заметки
+MoveToRecycleBin=Переместить в корзину
+Show=Показать
+Hide=Спрятать
+Settings=Настройки
+ColumnTitle=Заголовок
+ColumnVisible=Видимость
+ColumnDateOfCreating=Дата создания
+ColumnCountTextSymbols=Количество символов
+ColumnCountTextLines=Количество строк
+ColumnDateLastChange=Дата последнего изменения
+ColumnLock=Заблокирован
+ColumnDateOfLastRemoval=Дата последнего удаления
+ColumnDateOfLastRestore=Дата последнего восстановления
+
+[TableRecycleBin]
+Title=Корзина
+Delete=Удалить
+Restore=Восстановить
+ColumnTitle=Заголовок
+ColumnVisible=Видимость
+ColumnDateOfCreating=Дата создания
+ColumnCountTextSymbols=Количество символов
+ColumnCountTextLines=Количество строк
+ColumnDateLastChange=Дата последнего изменения
+ColumnLock=Заблокирован
+ColumnDateOfLastRemoval=Дата последнего удаления
+ColumnDateOfLastRestore=Дата последнего восстановления
+
+[NoteManager]
+Notes=Заметки
+RecycleBin=Корзина
+ResultSearch=Результат
+Settings=Настройки
+Unselect=Снять выбор
+SelectAll=Выделить все
+ShowWindowEditingNotes=Показать окно просмотра заметок
+HideWindowEditingNotes=Скрыть окно просмотра заметок
+ToolTipNotes=Таблица заметок
+ToolTipRecycleBin=Таблица перемещенных в корзину заметок
+ToolTipResultSearch="Таблица заметок, обнаруженных поиском"
+ToolTipSettings=Настройки менеджера заметок
+
+[SettingsManager]
+Ok=Ok
+TitleManager=Менеджер
+VisibleTextIconsPanel=Показывать текст значков панели?
+TitleSelectStyle=Стиль менеджера:
+TitleNewNote=Новая заметка
+RandomColor=Случайный цвет
+RandomPositionOnScreen=Случайное положение на экране
+TitleSize=Размер
+TitlePosition=Положение
+Width=Ширина
+Height=Высота
+PositionX=Слева
+PositionY=Сверху
+Pixel=пикселей
+TitleAdditionally=Дополнительно
+TitleTitle=Заголовок
+TitleText=Текст
+TitleBackgroundColor=Цвет заднего фона:
+Visible=Показывать?
+Minimize=Минимизировать?
+TitleOpacity=Непрозрачность:
+Lock=Блокировать содержимое заметки?
+NotesVisible=Видимость
+NotesDateCreate=Дата создания
+NotesCountTextSymbols=Количество символов
+NotesCountTextLine=Количество строк
+NotesDateLastChange=Дата последнего изменения
+NotesLock=Заблокирован
+NotesDateOfLastRemoval=Дата последнего удаления
+NotesDateOfLastRestore=Дата последнего восстановления
+RecycleBinVisible=Видимость
+RecycleBinDateCreate=Дата создания
+RecycleBinCountTextSymbols=Количество символов
+RecycleBinCountTextLine=Количество строк
+RecycleBinDateLastChange=Дата последнего изменения
+RecycleBinLock=Заблокирован
+RecycleBinDateOfLastRemoval=Дата последнего удаления
+RecycleBinDateOfLastRestore=Дата последнего восстановления
+SettingsNotes=Заметки
+SettingsRecycleBin=Корзина
+TitleHotkey=Горячие клавиши
+UseHotkeys=Использовать горячие клавиши?
+HotkeyNewNote=Новая заметки
+HotkeyNewNoteFromClipboard=Новая заметка от буфера обмена
+HotkeyHideAllNote=Скрыть все заметки
+HotkeyShowAllNote=Показать все заметки
+HotkeyShowHideManager=Показать/скрыть менеджер
+ToolTipVisible=<html>Этот флаг определяет показывать ли<br>в таблице столбец <b>Видимость</b></html>
+ToolTipDateCreate=<html>Этот флаг определяет показывать ли<br>в таблице столбец <b>Дата создания</b></html>
+ToolTipCountTextSymbols=<html>Этот флаг определяет показывать ли<br>в таблице столбец <b>Количество символов</b></html>
+ToolTipCountTextLine=<html>Этот флаг определяет показывать ли<br>в таблице столбец <b>Количество строк</b></html>
+ToolTipDateLastChange=<html>Этот флаг определяет показывать ли<br>в таблице столбец <b>Дата последнего изменения</b></html>
+ToolTipLock=<html> Этот флаг определяет показывать ли<br>в таблице столбец <b>Заблокирован</b></html>
+ToolTipDateOfLastRemoval=<html>Этот флаг определяет показывать ли<br>в таблице столбец <b>Дата последнего удаления</b></html>
+ToolTipDateOfLastRestore=<html>Этот флаг определяет показывать ли<br>в таблице столбец <b>Дата последнего восстановления</b></html>
+
+[SettingsProgram]
+Title=Основные
+GroupBoxProgramTitle=Программа
+RunWithWindows=Запускать вместе с Windows?
+ShowTheManagerWhenTheProgramStarts=Показывать менеджер при запуске программы?
+GroupBoxSelectLanguage=Выберите язык
+WhenClosingManager=При закрытии менеджера...
+WhenMinimizeManager=При сворачивании менеджера...
+MinimizeToTray=Сворачивать в трей
+CloseTheProgram=Закрыть программу
+MinimizeToTaskbar=Сворачивать в панель задач
+ToolTipRunWithWindows="<html> Если выбран этот флажок, то при следующих<br>перезагрузках компьютера, эта программа будет запускаться вместе с ним</html>"
+ToolTipShowTheManagerWhenTheProgramStarts="<html> Если выбран этот флажок, то при следующих<br>запусках программы, будет открываться окно менеджера</html>"
+ToolTipSelectLanguage="Выбор языка, который используется в программе"
+ToolTipMinimizeToTray=Окно менеджера будет свернуто в трей
+ToolTipCloseTheProgram=Закрытие программы
+ToolTipMinimizeToTaskbar=<html> Окно будет свернуто в панель задач.<br>Это действие установлено по умолчанию.</html>
+
+[AboutProgram]
+Title=О программе
+Close=Закрыть
+RevisionHistory=История изменений
+License=Лицензионное соглашение
+Developers=Разработчики
+AllRightsReserved=Все права защищены.
+WordFromTheOwner="<html> Спасибо за использование этой БЕСПЛАТНОЙ программы.<br>Надеюсь, она вам нравится.</html>"
+SectionAuthors=<html> <b>Авторы:</b> </html>
+SectionProgrammers=<html> <b>Программисты:</b> </html>
+SectionDesigners=<html> <b>Дизайнеры:</b> </html>
+SectionTesters=<html> <b>Тестеры:</b> </html>
+SectionTranslations=<html> <b>Переводы:</b> </html>
+Author1="<html> &nbsp;&nbsp;&bull; Илья Петраш </html>"
+Programmer1="<html> &nbsp;&nbsp;&bull; Илья Петраш </html>"
+Designer1="<html> &nbsp;&nbsp;&bull; Нигманова Майя </html>"
+Tester1="<html> &nbsp;&nbsp;&bull; Максим Шмелёв </html>"
+ContaktAuthor1="<html> <a href = 'http://vk.com/id52658091'>vk.com</a> </html>"
+ContaktDesigner1="<html> <a href = 'http://vk.com/angelic_beauty'>vk.com</a> </html>"
+ContaktTester1="<html> <a href = 'http://vk.com/id40598086'>vk.com</a> </html>"
+
+[WidgetFindNote]
+Title=Поиск заметок
+Find=Найти
+Close=Закрыть
+Count=Подсчитать
+TextCount=Найдено %1.
+SearchIn=Искать в
+Notes=Заметки
+RecycleBin=Корзина
+ConsiderVisibilityNotes=Учитывать видимость заметки:
+ConsiderLockNotes=Учитывать блокировку заметки:
+Visible=Видима
+Invisible=Невидима
+Locked=Блокирована
+Unlocked=Разблокирована
+ShowAdditionalSearchSettings=Больше >>
+HideAdditionalSearchSettings=<< Меньше
+SearchByTitle=По заголовку:
+CaseSensitive=Учитывать регистр
+WholeWordsOnly=Только целые слова
+FindSettings=Настройки поиска
+
+[Color]
+White=Белый
+Black=Черный
+Red=Красный
+DarkRed=Темно-красный
+Green=Зеленый
+DarkGreen=Темно-зеленый
+Blue=Синий
+DarkBlue=Темно-синий
+Cyan=Голубой
+DarkCyan=Темно-голубой
+Magenta=Пурпурный
+DarkMagenta=Темно-пурпурный
+Yellow=Желтый
+DarkYellow=Темно-желтый
+Gray=Серый
+DarkGray=Темно-серый
+LightGray=Светло-серый
+Other=Другой...
+
+[FindReplaceTextDialog]
+FindTitle=Найти
+FindReplaceTitle=Заменить
+Find=Найти:
+ReplaceTo=Заменить на:
+ButtonFind=Найти
+DirectionFind=Направление
+Up=Вверх
+Down=Вниз
+Settings=Настройки
+WholeWords=Только целые слова
+CaseSensitive=Учитывать регистр
+RegExp=Регулярные выражения
+Replace=Заменить
+ReplaceAll=Заменить все
+Close=Закрыть
+SelectColor=Выбрать цвет выделения
+NoMatchFound=Ничего не найдено
+Replaced=Заменено: %1
+
+[UDialogSelectListNotes]
+Title=Внимание
+Unselect=Снять выбор
+SelectAll=Выделить все
+TextButtonOk=Ок
+TextButtonCancel=Отмена
+TextMessageMoveSelectedNotesToRecycleBin=Переместить выбранные заметки в корзину?
+TextMessageDeleteSelectedNotes=Удалить выбранные заметки?
+TextMessageRestoreSelectedNotes=Восстановить выбранные заметки?
+TextMessageMoveSelectedNoteToRecycleBin=Переместить эту заметку в корзину?
+TextMessageDeleteSelectedNote=Удалить эту заметку?
+TextMessageRestoreSelectedNote=Восстановить эту заметку?
+
+[UEditedExpandableComboBoxDate]
+ShowIndicatorDateTime=Показать пример
+Edit=Редактировать
+
+[UDialogChangesComboBoxDate]
+Title=Редактирование
+Add=Добавить
+Delete=Удалить
+Ok=Ok
+Cancel=Отмена
+
+[UDialogAddToListWidget]
+Title=Редактирование
+Ok=Ok
+Cancel=Отмена
+ToolTipEditedDateTime="<html><table border = '0.5' size = '20%' cellspacing = '0' cellpadding = '3'><tr>  <td align = 'center'>  <b> d    </b>  </td>  <td> день как число без вспомогательного нуля (1 до 31) </td> </tr><tr>  <td align = 'center'>  <b> dd   </b>  </td>  <td> день как число с вспомогательным нулем (01 до 31)  </td> </tr><tr>  <td align = 'center'>  <b> ddd  </b>  </td>  <td> аббревиатура локализованного названия дня          </td> </tr><tr>  <td align = 'center'>  <b> dddd </b>  </td>  <td> локализованное названия дня                        </td> </tr>\t<tr>  <td align = 'center'>  <b> M    </b>  </td>  <td> месяц как число без вспомогательного нуля (1 до 12) </td> </tr><tr>  <td align = 'center'>  <b> MM   </b>  </td>  <td> месяц как число с вспомогательным нулем (01 до 12)  </td> </tr><tr>  <td align = 'center'>  <b> MMM  </b>  </td>  <td> аббревиатура локализованного названия месяца        </td> </tr><tr>  <td align = 'center'>  <b> MMMM </b>  </td>  <td> локализованное названия месяца                      </td> </tr><tr>  <td align = 'center'>  <b> yy   </b>  </td>  <td> год как 2 числа (00 - 99)    </td>  </tr><tr>  <td align = 'center'>  <b> yyyy </b>  </td>  <td> год как четырехзначное число  </td>  </tr><tr>  <td align = 'center'>  <b> h  </b>  </td>  <td> часы без вспомогательного нуля (0 до 23 или 1 до 12 если указано отображение AM/PM) </td> </tr><tr>  <td align = 'center'>  <b> hh </b>  </td>  <td> часы с вспомогательноым нулем (00 до 23 или 01 до 12 если указано отображение AM/PM)  </td> </tr>\t<tr>  <td align = 'center'>  <b> m  </b>  </td>  <td> минуты без вспомогательного нуля (0 до 59) </td> </tr><tr>  <td align = 'center'>  <b> mm </b>  </td>  <td> минуты с вспомогательным нулем  </td> </tr><tr>  <td align = 'center'>  <b> s  </b>  </td>  <td> секунды без вспомогательного нуля (0 до 59) </td>  </tr><tr>  <td align = 'center'>  <b> ss </b>  </td>  <td> секунды с вспомогательным нулем (00 до 59) </td>  </tr><tr>  <td align = 'center'>  <b> z   </b>  </td>  <td> миллисекунды без вспомогательных нулей (0 до 999) </td>  </tr><tr>  <td align = 'center'>  <b> zzz </b>  </td>  <td> миллисекунды с вспомогательными нулями (000 до 999) </td>  </tr><tr>  <td align = 'center'>  <b> AP </b>  </td>  <td> использование отображения времени с AM/PM. AP будет заменен на 'AMили 'PM. </td>  </tr><tr>  <td align = 'center'>  <b> ap </b>  </td>  <td> использование отображения времени с am/pm. ap будет заменен на 'amили 'pm. </td>  </tr></table></html>"

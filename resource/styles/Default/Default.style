@@ -1,0 +1,9 @@
+QListWidget:item:selected
+{
+	background: gray;
+}
+
+QComboBox QAbstractItemView 
+{
+    outline: none; /* убираем однопиксельное выделение текста пунктирной линией*/
+}
